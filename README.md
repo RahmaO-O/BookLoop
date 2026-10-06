@@ -6,7 +6,7 @@ Our app is a free book-exchange platform that helps readers discover and exchang
 
 👥 Team Members
 Role:UI/UX Designer  
--Rahma Abdelfattah |market research
+-Rahma Abdelfattah |market research   
 -Menna mahmoud |user journey map  
 -Ali Mohamed Abotaleb |site map  
 -Abdelrhman ELsayed |survey,interviews   
