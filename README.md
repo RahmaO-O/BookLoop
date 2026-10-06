@@ -12,5 +12,5 @@ Role:UI/UX Designer
 -Abdelrhman ELsayed |survey,interviews   
 -Shahd Tarek |Affinity map,Persona   
 -Howaida mahmoud|user flow    
-Instructor: Mohamed Kamar
+Instructor: Mohamed Kamar  
 https://drive.google.com/drive/u/1/folders/1SU3m1FihFzYoA5Yab0SfnfbE0shFL3IO
