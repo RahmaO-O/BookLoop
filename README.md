@@ -6,9 +6,9 @@ Our app is a free book-exchange platform that helps readers discover and exchang
 
 ##👥 Team Members
 
-|Rahma Abdelfattah |market research, competitive analysis|
-|menna mahmoud |user journey map|
-|Ali Mohamed Abotaleb |site map|
-|Abdelrhman ELsayed |survey,interviews|
-|Shahd Tarek |Affinity map,Persona|
-|Howaida mahmoud|user flow|
+Rahma Abdelfattah |market research, competitive analysis|  
+menna mahmoud |user journey map|  
+Ali Mohamed Abotaleb |site map|  
+Abdelrhman ELsayed |survey,interviews|  
+Shahd Tarek |Affinity map,Persona|
+Howaida mahmoud|user flow
