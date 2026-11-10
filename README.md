@@ -14,3 +14,5 @@ Role:UI/UX Designer
 -Howaida mahmoud|user flow    
 Instructor: Mohamed Kamar  
 https://drive.google.com/drive/u/1/folders/1SU3m1FihFzYoA5Yab0SfnfbE0shFL3IO
+https://www.figma.com/design/5w7t0Ug3uXD9Lq4lfuCZIx/BookLoop?node-id=0-1&t=WHDUNAJ098b9wV2j-1
+https://miro.com/app/board/uXjVEfT_LYk=/?share_link_id=410512185237
